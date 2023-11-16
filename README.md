@@ -4,7 +4,7 @@ Welcome to the Snake Game! This project is a Java implementation of the classic 
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Screenshot](#screenshot)
 - [Features](#features)
 - [Run Locally](#run-locally)
 - [How to Play](#how-to-play)
@@ -12,9 +12,8 @@ Welcome to the Snake Game! This project is a Java implementation of the classic 
 - [Customisation](#customisation)
 - [Contributing](#contributing)
 
-## Demo
-
-Check out the live demo of the Snake [here](#).
+## Screenshot
+![Alt Text](/screenshot.png?raw=true "Optional Title")
 
 ## Features
 
